@@ -1,0 +1,1 @@
+Linear Time complexity solution for finding the common element between two arrays 
